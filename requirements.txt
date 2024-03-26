@@ -6,3 +6,4 @@ langchain
 python-box
 streamlit
 sentencepiece
+sacremoses
