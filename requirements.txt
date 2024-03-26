@@ -5,3 +5,4 @@ ctransformers
 langchain
 python-box
 streamlit
+sentencepiece
